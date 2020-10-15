@@ -1,8 +1,7 @@
 ﻿// 8.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include <iostream>
-#include <cstdlib> 
+#include <iostream> 
 #include <ctime>
 #include <algorithm>
 using namespace std;
